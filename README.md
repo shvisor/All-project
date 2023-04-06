@@ -1,3 +1,7 @@
+# Manual
+
+[Решение проблем возникающих у студентов](https://github.com/shvisor/Manual/blob/main/README.md)
+
 # Модуль 3. Java  для тестировщиков
 
 [Домашние работы](Java_for_QA.md)
