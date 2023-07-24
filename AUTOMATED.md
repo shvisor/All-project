@@ -13,7 +13,7 @@
 
 2.1. [Тестирование веб-интерфейсов, Selenium и Selenide](web.md)
 
-2.2. [Selenide](selenide.md) ПУСТО
+2.2. [Selenide](selenide.md)
 
 2.3. [Patterns](patterns.md) ПУСТО
 
