@@ -10,5 +10,6 @@
 
 # Модуль 4. Автоматизированное тестирование
 
-* [Домашние работы](AUTOMATED.md)
 * [Задания](https://github.com/netology-code/aqa-homeworks/blob/master/README.md)
+
+* [Домашние работы](AUTOMATED.md)
